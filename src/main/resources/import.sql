@@ -1,0 +1,10 @@
+insert into Account (id, firstName, secondName, accountNumber) values (1, 'Arman', 'Milne', 3);
+insert into Account (id, firstName, secondName, accountNumber) values (2, 'Tirrell', 'Boshard', 4);
+insert into Account (id, firstName, secondName, accountNumber) values (3, 'Shanan', 'M''cowis', 3);
+insert into Account (id, firstName, secondName, accountNumber) values (4, 'Aeriell', 'Mosedale', 4);
+insert into Account (id, firstName, secondName, accountNumber) values (5, 'Lonni', 'Whybray', 3);
+insert into Account (id, firstName, secondName, accountNumber) values (6, 'Mac', 'Cranmer', 4);
+insert into Account (id, firstName, secondName, accountNumber) values (7, 'Cicily', 'Wrathmall', 4);
+insert into Account (id, firstName, secondName, accountNumber) values (8, 'Gerhardine', 'Lammerts', 4);
+insert into Account (id, firstName, secondName, accountNumber) values (9, 'Hewe', 'Smetoun', 3);
+insert into Account (id, firstName, secondName, accountNumber) values (10, 'Horatio', 'Feary', 3);

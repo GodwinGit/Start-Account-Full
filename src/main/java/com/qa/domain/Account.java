@@ -22,6 +22,7 @@ public class Account {
 		this.firstName = firstName;
 		this.secondName = secondName;
 		this.accountNumber = accountNumber;
+
 	}
 
 	public String getFirstName() {
@@ -46,6 +47,12 @@ public class Account {
 
 	public void setAccountNumber(String accountNumber) {
 		this.accountNumber = accountNumber;
+	}
+
+	@Override
+	public String toString() {
+		return "Account [id=" + id + ", firstName=" + firstName + ", secondName=" + secondName + ", accountNumber="
+				+ accountNumber + "]";
 	}
 
 }

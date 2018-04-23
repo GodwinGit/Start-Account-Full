@@ -9,7 +9,7 @@ public class App {
 	public static void main(String[] args) {
 		AccountService service = new AccountService();
 		JSONUtil util = new JSONUtil();
-		Account joeBloggs = new Account("Joe", "Bloggs", "1234");
+		Account joeBloggs = new Account( "Joe", "Bloggs", "1234");
 		Account janeBloggs = new Account("Jane", "Bloggs", "1234");
 		service.addAccountFromMap(joeBloggs);
 		service.addAccountFromMap(janeBloggs);
